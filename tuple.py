@@ -17,3 +17,5 @@ my_list = list(my_tuple)
 my_list.remove("Rwanda")
 my_list=tuple(my_list)
 print(my_list)
+
+
